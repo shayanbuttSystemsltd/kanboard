@@ -1,1 +1,1 @@
-buil kanboard Ready
+buil kanboard Ready withoout $
